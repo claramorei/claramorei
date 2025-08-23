@@ -6,12 +6,12 @@
  Estudante do 2º ano do ensino médio/técnico em informática <br>
   Apaixonada por back-end! <br>
   
-  --- <br>
+  <br>
   ## Tecnologias que uso: <br>
   - C# | PHP | Python | C++ | <br>
   - HTML | CSS | JavaScript<br>
   - MySQL | MangoBD<br>
-  ---<br>
+  <br>
     
   ## Onde me encontrar: <br>
   Instagram: [@ana.clara](https://instagram.com/anasants___) <br>
