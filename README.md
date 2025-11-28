@@ -1,10 +1,17 @@
-# Oie! Eu sou a Ana Clara!
+<div align="center" width="100%">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Oie! Me chamo <b>Ana Clara</b>
+  </samp>
+</div>
+<br>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFB6C1&width=900&size=22&center=true&lines=Sou+de+Sao+Jose+dos+Campos!;Eu+sou+estudante+de+TI!+Amo+back-end+,front-end+e+adoro+construir+APIs;Seja+muito+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <div>
-    <img src="https://i.pinimg.com/originals/e9/d0/58/e9d05804699787a2d5ac99ddea293719.gif" align ="center" margin-left="50" width="900"/>
+    <img src="https://i.pinimg.com/originals/e9/d0/58/e9d05804699787a2d5ac99ddea293719.gif" align ="center" margin-left="50" width="700"/>
 </div>
 
  
