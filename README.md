@@ -57,7 +57,15 @@
   <br>
   <br>
 
-<div align="center" " >
+<div align="center" >
+ 
+  <samp>
+    <b>
+      Meios de contato:
+    </b>
+  </samp>
+  <br>
+  <br>
   
   [![Gmail](https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=Gmail&logoColor=red)](https://anacm123409@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/anasants___/?next=%2F)
